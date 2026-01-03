@@ -105,4 +105,7 @@ This extension:
 - ✅ Only fetches memes from public APIs
 - ✅ Stores settings locally in your browser
 - ❌ No tracking, no ads, no nonsense
+
+---
+**Built With Claude AI**
   
